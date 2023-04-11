@@ -16,4 +16,5 @@ Esse projeto é um jogo divertido usando uma API de reconhecimento de voz onde, 
 ## Autor:
 
 Mario Jr Carvalho
+
 [Linkedin](https://www.linkedin.com/in/mariojrcarvalho/)
